@@ -10,6 +10,7 @@ export default function App() {
         <footer>
           This project was coded by{" "}
           <a
+            rel="noreferrer"
             href="https://sparkly-platypus-3811a9.netlify.app/"
             target="_blank"
           >
@@ -17,6 +18,7 @@ export default function App() {
           </a>{" "}
           and is{" "}
           <a
+            rel="noreferrer"
             href="https://github.com/KaylSantos/react-weather-app"
             target="_blank"
           >
